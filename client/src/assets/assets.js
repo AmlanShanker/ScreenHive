@@ -16,20 +16,24 @@ export const assets = {
 
 export const dummyTrailers = [
   {
-    image: "https://img.youtube.com/vi/WpW36ldAqnM/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=WpW36ldAqnM",
+    image:
+      "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179834/spid_b5is9m.webp",
+    videoUrl: "https://youtu.be/62bIsvRcPv0?si=3pTYFDZ9mLKpGfnD",
   },
   {
-    image: "https://img.youtube.com/vi/-sAOWhvheK8/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=-sAOWhvheK8",
+    image:
+      "https://res.cloudinary.com/dadbypj1l/image/upload/v1783431913/mess_luxdji.jpg",
+    videoUrl: "https://youtu.be/NdvqHc56lE0?si=EP_wdXTrTuSH37fh",
   },
   {
-    image: "https://img.youtube.com/vi/1pHDWnXmK7Y/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=1pHDWnXmK7Y",
+    image:
+      "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179941/doom_cxwnbc.webp",
+    videoUrl: "https://youtu.be/kH1XlwHQv9o?si=0kcpfvHj1ndNE3rb",
   },
   {
-    image: "https://img.youtube.com/vi/umiKiW4En9g/maxresdefault.jpg",
-    videoUrl: "https://www.youtube.com/watch?v=umiKiW4En9g",
+    image:
+      "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179528/odd_ypnfgd.webp",
+    videoUrl: "https://youtu.be/K7bI5T-Yl-o?si=3Kj3yZWnE9M6LYx5",
   },
 ];
 
