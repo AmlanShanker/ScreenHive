@@ -18,22 +18,26 @@ export const dummyTrailers = [
   {
     image:
       "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179834/spid_b5is9m.webp",
-    videoUrl: "https://youtu.be/62bIsvRcPv0?si=3pTYFDZ9mLKpGfnD",
+    videoUrl:
+      "https://res.cloudinary.com/dadbypj1l/video/upload/v1783091770/spider-man_a6yjoj.mp4",
   },
   {
     image:
       "https://res.cloudinary.com/dadbypj1l/image/upload/v1783431913/mess_luxdji.jpg",
-    videoUrl: "https://youtu.be/NdvqHc56lE0?si=EP_wdXTrTuSH37fh",
+    videoUrl:
+      "https://res.cloudinary.com/dadbypj1l/video/upload/v1784516616/Dune_Part_Three_Official_Trailer_-_Warner_Bros._1080p_h264_gcj7cw.mp4",
   },
   {
     image:
       "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179941/doom_cxwnbc.webp",
-    videoUrl: "https://youtu.be/kH1XlwHQv9o?si=0kcpfvHj1ndNE3rb",
+    videoUrl:
+      "https://res.cloudinary.com/dadbypj1l/video/upload/v1783091354/doomsday_wlm2by.mp4",
   },
   {
     image:
       "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179528/odd_ypnfgd.webp",
-    videoUrl: "https://youtu.be/K7bI5T-Yl-o?si=3Kj3yZWnE9M6LYx5",
+    videoUrl:
+      "https://res.cloudinary.com/dadbypj1l/video/upload/v1783091584/odyssey_bslaha.mp4",
   },
 ];
 
