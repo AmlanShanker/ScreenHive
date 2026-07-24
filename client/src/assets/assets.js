@@ -31,7 +31,7 @@ export const dummyTrailers = [
     image:
       "https://res.cloudinary.com/dadbypj1l/image/upload/v1783179941/doom_cxwnbc.webp",
     videoUrl:
-      "https://res.cloudinary.com/dadbypj1l/video/upload/v1783091354/doomsday_wlm2by.mp4",
+      "https://res.cloudinary.com/dadbypj1l/video/upload/v1784556061/Avengers-Doomsday-Official-Trailer_zpqvnl.mp4",
   },
   {
     image:

@@ -11,9 +11,9 @@ const MovieCard = ({ movie }) => {
           navigate(`/movies/${movie._id}`);
           scrollTo(0, 0);
         }}
-        src={movie.backdrop_path}
+        src={movie.poster_path}
         alt=""
-        className="rounded-lg h-52 w-full object-cover object-bottom-right cursor-pointer"
+        className="rounded-lg aspect-2/3 w-full object-cover object-bottom-right cursor-pointer"
       />
       <p className="font-semibold mt-2 truncate">{movie.title}</p>
 
